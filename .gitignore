@@ -1,0 +1,9 @@
+target
+
+# ignore IntelliJ files
+.idea
+
+# ignore vscode/eclipse specific file
+.settings
+.classpath
+.project
